@@ -1,0 +1,17 @@
+li{
+    display:inline;
+    display: block;
+    background-color:rgba(255, 0, 0, 0.605)
+}
+div{
+    background-color: rgba(238, 255, 0, 0.727);
+}
+h2{
+    background-color:rgba(255, 0, 0, 0.619)
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: rgba(255, 170, 0, 0.616);
+}
